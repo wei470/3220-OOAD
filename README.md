@@ -49,4 +49,4 @@ Shape 9: RECTANGLE 2x2
 
 Shape 10: CIRCLE 11
 
-For this assignment you are to implement the classes: CShape, CCanvas, COval, CCircle, CRectangle and CSquare. [2 pts each = 6 pts]
+For this assignment you are to implement the classes: CShape, CCanvas, COval, CCircle, CRectangle and CSquare.
